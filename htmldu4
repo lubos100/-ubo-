@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Kitchen House</title>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul class="ul1">
+                <li class="nli">
+                    <a class="nula" href="#" >A PROPOS</a>
+                </li>
+                <li class="nli">
+                    <a class="nula" href="#" >SERVISES</a>                                     
+                </li>
+                <li >
+                    <a class="nula" href="#" >IDÉES</a>
+                </li>
+                <li class="nli">
+                    <a class="nula" href="#" >CHÉQUES CADAEAUX</a>
+                </li>
+                <li class="nli">
+                    <a class="nula" href="#" >CONTACT</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <img src="logo.png" class="logo">
+            <img src="fruits.jpg" class="fruits">
+        </section>
+
+        <section>
+            <h2>Hotomake kokos from <strong>Jutah</strong></h2>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit assumenda,
+                voluptatibus nobis doloribus aliquam quos aperiam cupiditate eius temporibus 
+                illo harum nemo expedita architecto dolor saepe? Assumenda sed ab natus.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, ipsa
+                aliquam perferendis voluptatibusLorem ipsum, dolor sit amet consectetur adipil
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, ipsa
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, ipsa
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, ipsa
+                Lorem ipsum, dolor sit amet consectetur  
+            </p>
+        </section>
+    </main>
+
+    <footer>
+    </footer>
+</body>
+</html>
