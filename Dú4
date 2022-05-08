@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Form</title>
+</head>
+<body>
+    
+    <section class="section-1">
+            <h1 class="container">Formulár</h1>
+    </section>
+
+    <section class="section-2">
+                <form action="#" method="get" class="container">
+
+                    <input type="text" name="name" placeholder="meno">
+                    <input type="email" name="email" placeholder="@">
+                    <input type="password" name="pass" placeholder="">
+                    <input type="date" name="date" placeholder="Datum">
+
+                    <select name="serial">
+                        <option value="1">Adventure Time</option>
+                        <option value="2">My Little Pony</option>
+                        <option value="3">Rick &amp; Morty</option>
+                    </select>
+
+                    <textarea name="message" id="" rows="6"></textarea>
+                <label>
+                    <input type="checkbox" name="remember" id="pamataj">
+                    Zapametaj si ma
+                </label>
+                
+                    <button> Mi to pošli šak</button>
+
+                </form>
+    </section>
+
+    <section class="section-3">
+        <div class="container">
+
+        </div>
+    </section>
+
+</body>
+</html>
